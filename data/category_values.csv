@@ -1,0 +1,377 @@
+﻿column,value,meaning,count
+state,US-AZ,Arizona,10093
+state,US-CA,California,6447
+state,US-CO,Colorado,5447
+state,US-ID,Idaho,7161
+state,US-MT,Montana,10191
+state,US-NM,New Mexico,5039
+state,US-NV,Nevada,3390
+state,US-OR,Oregon,8908
+state,US-UT,Utah,6821
+state,US-WA,Washington,9079
+state,US-WY,Wyoming,2696
+county,Ada,County or equivalent named Ada at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1261
+county,Adams,County or equivalent named Adams at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,207
+county,Alamosa,County or equivalent named Alamosa at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,12
+county,Albany,County or equivalent named Albany at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,91
+county,Alpine,County or equivalent named Alpine at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,136
+county,Amador,County or equivalent named Amador at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,26
+county,Apache,County or equivalent named Apache at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,524
+county,Arapahoe,County or equivalent named Arapahoe at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1
+county,Archuleta,County or equivalent named Archuleta at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,243
+county,Asotin,County or equivalent named Asotin at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,49
+county,Baca,County or equivalent named Baca at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,22
+county,Baker,County or equivalent named Baker at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,294
+county,Bannock,County or equivalent named Bannock at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,91
+county,Bear Lake,County or equivalent named Bear Lake at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,33
+county,Beaver,County or equivalent named Beaver at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,176
+county,Beaverhead,County or equivalent named Beaverhead at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,184
+county,Benewah,County or equivalent named Benewah at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,184
+county,Bent,County or equivalent named Bent at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,8
+county,Benton,County or equivalent named Benton at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,104
+county,Bernalillo,County or equivalent named Bernalillo at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,156
+county,Big Horn,County or equivalent named Big Horn at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,976
+county,Bingham,County or equivalent named Bingham at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,80
+county,Blaine,County or equivalent named Blaine at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,177
+county,Boise,County or equivalent named Boise at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,303
+county,Bonner,County or equivalent named Bonner at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,420
+county,Bonneville,County or equivalent named Bonneville at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,68
+county,Boulder,County or equivalent named Boulder at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,118
+county,Boundary,County or equivalent named Boundary at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,205
+county,Box Elder,County or equivalent named Box Elder at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,369
+county,Broadwater,County or equivalent named Broadwater at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,41
+county,Butte,County or equivalent named Butte at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,53
+county,Cache,County or equivalent named Cache at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,110
+county,Calaveras,County or equivalent named Calaveras at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,19
+county,Camas,County or equivalent named Camas at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,38
+county,Campbell,County or equivalent named Campbell at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,179
+county,Canyon,County or equivalent named Canyon at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,27
+county,Carbon,County or equivalent named Carbon at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,327
+county,Caribou,County or equivalent named Caribou at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,50
+county,Carson City,County or equivalent named Carson City at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,14
+county,Carter,County or equivalent named Carter at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,89
+county,Cascade,County or equivalent named Cascade at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,73
+county,Cassia,County or equivalent named Cassia at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,139
+county,Catron,County or equivalent named Catron at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,591
+county,Chaffee,County or equivalent named Chaffee at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,45
+county,Chaves,County or equivalent named Chaves at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,146
+county,Chelan,County or equivalent named Chelan at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,395
+county,Cheyenne,County or equivalent named Cheyenne at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1
+county,Chouteau,County or equivalent named Chouteau at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,47
+county,Churchill,County or equivalent named Churchill at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,22
+county,Cibola,County or equivalent named Cibola at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,220
+county,Clackamas,County or equivalent named Clackamas at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,168
+county,Clallam,County or equivalent named Clallam at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,154
+county,Clark,County or equivalent named Clark at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1165
+county,Clatsop,County or equivalent named Clatsop at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,2
+county,Clear Creek,County or equivalent named Clear Creek at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,28
+county,Clearwater,County or equivalent named Clearwater at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,347
+county,Cochise,County or equivalent named Cochise at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,557
+county,Coconino,County or equivalent named Coconino at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,2267
+county,Colfax,County or equivalent named Colfax at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,95
+county,Columbia,County or equivalent named Columbia at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,59
+county,Colusa,County or equivalent named Colusa at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,3
+county,Conejos,County or equivalent named Conejos at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,21
+county,Converse,County or equivalent named Converse at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,136
+county,Coos,County or equivalent named Coos at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,112
+county,Costilla,County or equivalent named Costilla at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,7
+county,Cowlitz,County or equivalent named Cowlitz at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,164
+county,Crook,County or equivalent named Crook at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,461
+county,Curry,County or equivalent named Curry at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,71
+county,Custer,County or equivalent named Custer at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,447
+county,Daggett,County or equivalent named Daggett at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,66
+county,Daniels,County or equivalent named Daniels at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,38
+county,Davis,County or equivalent named Davis at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,66
+county,Dawson,County or equivalent named Dawson at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,92
+county,De Baca,County or equivalent named De Baca at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,36
+county,Deer Lodge,County or equivalent named Deer Lodge at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,52
+county,Del Norte,County or equivalent named Del Norte at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,81
+county,Delta,County or equivalent named Delta at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,71
+county,Deschutes,County or equivalent named Deschutes at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1130
+county,Dolores,County or equivalent named Dolores at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,94
+county,Douglas,County or equivalent named Douglas at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,882
+county,Doña Ana,County or equivalent named Doña Ana at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,41
+county,Duchesne,County or equivalent named Duchesne at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,342
+county,Eagle,County or equivalent named Eagle at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,177
+county,Eddy,County or equivalent named Eddy at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,253
+county,El Dorado,County or equivalent named El Dorado at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,269
+county,El Paso,County or equivalent named El Paso at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,107
+county,Elbert,County or equivalent named Elbert at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,3
+county,Elko,County or equivalent named Elko at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,464
+county,Elmore,County or equivalent named Elmore at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,227
+county,Emery,County or equivalent named Emery at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,136
+county,Esmeralda,County or equivalent named Esmeralda at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,11
+county,Eureka,County or equivalent named Eureka at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,93
+county,Fallon,County or equivalent named Fallon at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,58
+county,Fergus,County or equivalent named Fergus at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,127
+county,Ferry,County or equivalent named Ferry at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,424
+county,Flathead,County or equivalent named Flathead at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,928
+county,Franklin,County or equivalent named Franklin at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,64
+county,Fremont,County or equivalent named Fremont at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,613
+county,Fresno,County or equivalent named Fresno at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,202
+county,Gallatin,County or equivalent named Gallatin at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,198
+county,Garfield,County or equivalent named Garfield at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,645
+county,Gem,County or equivalent named Gem at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,48
+county,Gila,County or equivalent named Gila at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1312
+county,Gilliam,County or equivalent named Gilliam at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,12
+county,Gilpin,County or equivalent named Gilpin at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,31
+county,Glacier,County or equivalent named Glacier at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,2
+county,Glenn,County or equivalent named Glenn at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,20
+county,Golden Valley,County or equivalent named Golden Valley at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,26
+county,Gooding,County or equivalent named Gooding at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,49
+county,Goshen,County or equivalent named Goshen at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,10
+county,Graham,County or equivalent named Graham at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,626
+county,Grand,County or equivalent named Grand at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,339
+county,Granite,County or equivalent named Granite at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,134
+county,Grant,County or equivalent named Grant at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1067
+county,Grays Harbor,County or equivalent named Grays Harbor at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,164
+county,Greenlee,County or equivalent named Greenlee at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,193
+county,Guadalupe,County or equivalent named Guadalupe at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,4
+county,Gunnison,County or equivalent named Gunnison at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,87
+county,Harding,County or equivalent named Harding at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,6
+county,Harney,County or equivalent named Harney at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,290
+county,Hidalgo,County or equivalent named Hidalgo at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,40
+county,Hill,County or equivalent named Hill at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,36
+county,Hinsdale,County or equivalent named Hinsdale at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,40
+county,Hood River,County or equivalent named Hood River at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,146
+county,Hot Springs,County or equivalent named Hot Springs at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,55
+county,Huerfano,County or equivalent named Huerfano at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,32
+county,Humboldt,County or equivalent named Humboldt at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,416
+county,Idaho,County or equivalent named Idaho at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,912
+county,Imperial,County or equivalent named Imperial at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,67
+county,Inyo,County or equivalent named Inyo at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,67
+county,Iron,County or equivalent named Iron at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,470
+county,Island,County or equivalent named Island at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,65
+county,Jackson,County or equivalent named Jackson at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,568
+county,Jefferson,County or equivalent named Jefferson at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,685
+county,Jerome,County or equivalent named Jerome at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,54
+county,Johnson,County or equivalent named Johnson at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,144
+county,Josephine,County or equivalent named Josephine at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,371
+county,Juab,County or equivalent named Juab at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,219
+county,Judith Basin,County or equivalent named Judith Basin at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,67
+county,Kane,County or equivalent named Kane at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,355
+county,Kern,County or equivalent named Kern at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,186
+county,King,County or equivalent named King at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,135
+county,Kiowa,County or equivalent named Kiowa at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,6
+county,Kit Carson,County or equivalent named Kit Carson at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1
+county,Kitsap,County or equivalent named Kitsap at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,24
+county,Kittitas,County or equivalent named Kittitas at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,462
+county,Klamath,County or equivalent named Klamath at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1013
+county,Klickitat,County or equivalent named Klickitat at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,248
+county,Kootenai,County or equivalent named Kootenai at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,245
+county,La Paz,County or equivalent named La Paz at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,211
+county,La Plata,County or equivalent named La Plata at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,466
+county,Lake,County or equivalent named Lake at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,871
+county,Lander,County or equivalent named Lander at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,91
+county,Lane,County or equivalent named Lane at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,607
+county,Laramie,County or equivalent named Laramie at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,5
+county,Larimer,County or equivalent named Larimer at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,247
+county,Las Animas,County or equivalent named Las Animas at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,52
+county,Lassen,County or equivalent named Lassen at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,195
+county,Latah,County or equivalent named Latah at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,115
+county,Lea,County or equivalent named Lea at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,54
+county,Lemhi,County or equivalent named Lemhi at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,230
+county,Lewis,County or equivalent named Lewis at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,373
+county,Lewis and Clark,County or equivalent named Lewis and Clark at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,366
+county,Liberty,County or equivalent named Liberty at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,6
+county,Lincoln,County or equivalent named Lincoln at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1546
+county,Linn,County or equivalent named Linn at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,138
+county,Logan,County or equivalent named Logan at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,28
+county,Los Alamos,County or equivalent named Los Alamos at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,28
+county,Los Angeles,County or equivalent named Los Angeles at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,360
+county,Luna,County or equivalent named Luna at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,20
+county,Lyon,County or equivalent named Lyon at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,48
+county,Madera,County or equivalent named Madera at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,63
+county,Madison,County or equivalent named Madison at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,119
+county,Malheur,County or equivalent named Malheur at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,234
+county,Maricopa,County or equivalent named Maricopa at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,780
+county,Marion,County or equivalent named Marion at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,43
+county,Mariposa,County or equivalent named Mariposa at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,213
+county,Mason,County or equivalent named Mason at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,325
+county,McCone,County or equivalent named McCone at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,90
+county,McKinley,County or equivalent named McKinley at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,188
+county,Meagher,County or equivalent named Meagher at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,50
+county,Mendocino,County or equivalent named Mendocino at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,15
+county,Merced,County or equivalent named Merced at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,3
+county,Mesa,County or equivalent named Mesa at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,437
+county,Millard,County or equivalent named Millard at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,408
+county,Mineral,County or equivalent named Mineral at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,351
+county,Minidoka,County or equivalent named Minidoka at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,9
+county,Missoula,County or equivalent named Missoula at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,686
+county,Modoc,County or equivalent named Modoc at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,239
+county,Moffat,County or equivalent named Moffat at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,403
+county,Mohave,County or equivalent named Mohave at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,987
+county,Mono,County or equivalent named Mono at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,197
+county,Monterey,County or equivalent named Monterey at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,24
+county,Montezuma,County or equivalent named Montezuma at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,434
+county,Montrose,County or equivalent named Montrose at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,310
+county,Mora,County or equivalent named Mora at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,18
+county,Morgan,County or equivalent named Morgan at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,86
+county,Morrow,County or equivalent named Morrow at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,58
+county,Multnomah,County or equivalent named Multnomah at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,21
+county,Musselshell,County or equivalent named Musselshell at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,100
+county,Napa,County or equivalent named Napa at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,7
+county,Natrona,County or equivalent named Natrona at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,150
+county,Navajo,County or equivalent named Navajo at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,539
+county,Nevada,County or equivalent named Nevada at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,151
+county,Nez Perce,County or equivalent named Nez Perce at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,153
+county,Niobrara,County or equivalent named Niobrara at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,12
+county,Nye,County or equivalent named Nye at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,108
+county,Okanogan,County or equivalent named Okanogan at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,709
+county,Oneida,County or equivalent named Oneida at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,30
+county,Orange,County or equivalent named Orange at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,22
+county,Otero,County or equivalent named Otero at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,423
+county,Ouray,County or equivalent named Ouray at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,23
+county,Owyhee,County or equivalent named Owyhee at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,192
+county,Pacific,County or equivalent named Pacific at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,60
+county,Park,County or equivalent named Park at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,342
+county,Payette,County or equivalent named Payette at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,36
+county,Pend Oreille,County or equivalent named Pend Oreille at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,394
+county,Pershing,County or equivalent named Pershing at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,111
+county,Petroleum,County or equivalent named Petroleum at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,47
+county,Phillips,County or equivalent named Phillips at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,82
+county,Pierce,County or equivalent named Pierce at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,222
+county,Pima,County or equivalent named Pima at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,390
+county,Pinal,County or equivalent named Pinal at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,644
+county,Pitkin,County or equivalent named Pitkin at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,24
+county,Piute,County or equivalent named Piute at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,41
+county,Placer,County or equivalent named Placer at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,154
+county,Platte,County or equivalent named Platte at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,34
+county,Plumas,County or equivalent named Plumas at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,387
+county,Polk,County or equivalent named Polk at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,28
+county,Pondera,County or equivalent named Pondera at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,18
+county,Powder River,County or equivalent named Powder River at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,245
+county,Powell,County or equivalent named Powell at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,153
+county,Power,County or equivalent named Power at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,58
+county,Prairie,County or equivalent named Prairie at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,79
+county,Prowers,County or equivalent named Prowers at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,3
+county,Pueblo,County or equivalent named Pueblo at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,38
+county,Quay,County or equivalent named Quay at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,3
+county,Ravalli,County or equivalent named Ravalli at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,726
+county,Rich,County or equivalent named Rich at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,41
+county,Richland,County or equivalent named Richland at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,89
+county,Rio Arriba,County or equivalent named Rio Arriba at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,551
+county,Rio Blanco,County or equivalent named Rio Blanco at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,384
+county,Rio Grande,County or equivalent named Rio Grande at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,12
+county,Riverside,County or equivalent named Riverside at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,285
+county,Roosevelt,County or equivalent named Roosevelt at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,461
+county,Rosebud,County or equivalent named Rosebud at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,299
+county,Routt,County or equivalent named Routt at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,97
+county,Saguache,County or equivalent named Saguache at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,60
+county,Salt Lake,County or equivalent named Salt Lake at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,157
+county,San Benito,County or equivalent named San Benito at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1
+county,San Bernardino,County or equivalent named San Bernardino at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,804
+county,San Diego,County or equivalent named San Diego at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,144
+county,San Joaquin,County or equivalent named San Joaquin at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1
+county,San Juan,County or equivalent named San Juan at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,800
+county,San Luis Obispo,County or equivalent named San Luis Obispo at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,44
+county,San Mateo,County or equivalent named San Mateo at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,2
+county,San Miguel,County or equivalent named San Miguel at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,174
+county,Sanders,County or equivalent named Sanders at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,328
+county,Sandoval,County or equivalent named Sandoval at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,356
+county,Sanpete,County or equivalent named Sanpete at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,197
+county,Santa Barbara,County or equivalent named Santa Barbara at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,51
+county,Santa Clara,County or equivalent named Santa Clara at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1
+county,Santa Cruz,County or equivalent named Santa Cruz at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,140
+county,Santa Fe,County or equivalent named Santa Fe at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,77
+county,Sedgwick,County or equivalent named Sedgwick at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1
+county,Sevier,County or equivalent named Sevier at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,201
+county,Shasta,County or equivalent named Shasta at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,234
+county,Sheridan,County or equivalent named Sheridan at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,91
+county,Sherman,County or equivalent named Sherman at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,13
+county,Shoshone,County or equivalent named Shoshone at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,380
+county,Sierra,County or equivalent named Sierra at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,201
+county,Silver Bow,County or equivalent named Silver Bow at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,97
+county,Siskiyou,County or equivalent named Siskiyou at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,376
+county,Skagit,County or equivalent named Skagit at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,219
+county,Skamania,County or equivalent named Skamania at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,234
+county,Snohomish,County or equivalent named Snohomish at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,293
+county,Socorro,County or equivalent named Socorro at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,188
+county,Sonoma,County or equivalent named Sonoma at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1
+county,Spokane,County or equivalent named Spokane at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1166
+county,Stanislaus,County or equivalent named Stanislaus at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1
+county,Stevens,County or equivalent named Stevens at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,1058
+county,Stillwater,County or equivalent named Stillwater at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,124
+county,Storey,County or equivalent named Storey at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,17
+county,Sublette,County or equivalent named Sublette at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,105
+county,Summit,County or equivalent named Summit at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,317
+county,Sweet Grass,County or equivalent named Sweet Grass at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,97
+county,Sweetwater,County or equivalent named Sweetwater at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,229
+county,Taos,County or equivalent named Taos at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,145
+county,Tehama,County or equivalent named Tehama at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,49
+county,Teller,County or equivalent named Teller at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,61
+county,Teton,County or equivalent named Teton at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,191
+county,Thurston,County or equivalent named Thurston at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,306
+county,Tillamook,County or equivalent named Tillamook at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,15
+county,Tooele,County or equivalent named Tooele at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,414
+county,Toole,County or equivalent named Toole at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,9
+county,Torrance,County or equivalent named Torrance at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,172
+county,Treasure,County or equivalent named Treasure at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,56
+county,Trinity,County or equivalent named Trinity at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,325
+county,Tulare,County or equivalent named Tulare at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,268
+county,Tuolumne,County or equivalent named Tuolumne at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,348
+county,Twin Falls,County or equivalent named Twin Falls at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,94
+county,Uinta,County or equivalent named Uinta at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,42
+county,Uintah,County or equivalent named Uintah at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,457
+county,Umatilla,County or equivalent named Umatilla at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,280
+county,Union,County or equivalent named Union at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,307
+county,Utah,County or equivalent named Utah at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,337
+county,Valencia,County or equivalent named Valencia at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,181
+county,Valley,County or equivalent named Valley at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,467
+county,Ventura,County or equivalent named Ventura at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,40
+county,Wahkiakum,County or equivalent named Wahkiakum at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,12
+county,Walla Walla,County or equivalent named Walla Walla at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,67
+county,Wallowa,County or equivalent named Wallowa at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,298
+county,Wasatch,County or equivalent named Wasatch at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,128
+county,Wasco,County or equivalent named Wasco at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,223
+county,Washakie,County or equivalent named Washakie at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,129
+county,Washington,County or equivalent named Washington at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,624
+county,Washoe,County or equivalent named Washoe at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,358
+county,Wayne,County or equivalent named Wayne at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,37
+county,Weber,County or equivalent named Weber at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,139
+county,Weld,County or equivalent named Weld at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,64
+county,Weston,County or equivalent named Weston at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,122
+county,Whatcom,County or equivalent named Whatcom at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,245
+county,Wheatland,County or equivalent named Wheatland at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,37
+county,Wheeler,County or equivalent named Wheeler at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,145
+county,White Pine,County or equivalent named White Pine at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,300
+county,Whitman,County or equivalent named Whitman at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,3
+county,Wibaux,County or equivalent named Wibaux at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,67
+county,Yakima,County or equivalent named Yakima at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,248
+county,Yamhill,County or equivalent named Yamhill at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,11
+county,Yavapai,County or equivalent named Yavapai at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,811
+county,Yellowstone,County or equivalent named Yellowstone at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,556
+county,Yuba,County or equivalent named Yuba at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,33
+county,Yuma,County or equivalent named Yuma at the reported point of origin. Interpret together with state; this literal name is not a FIPS code.,119
+landowner_category,,"Missing source value, stored as an empty CSV cell; no category meaning was supplied.",556
+landowner_category,#,"Literal source value #; meaning and missing-value status are undocumented. Retained, not recoded.",4
+landowner_category,BIA,Bureau of Indian Affairs; includes federally administered Indian trust lands and restricted Native Allotments in the cited NWCG standard.,6252
+landowner_category,BLM,Bureau of Land Management.,10771
+landowner_category,BOR,Bureau of Reclamation.,199
+landowner_category,City,City or equivalent government.,257
+landowner_category,County,County or equivalent government.,170
+landowner_category,DOD,Department of Defense.,1115
+landowner_category,DOE,Department of Energy.,21
+landowner_category,Foreign,Foreign government.,1
+landowner_category,NPS,National Park Service.,1406
+landowner_category,OthFed,Literal source code OthFed; exact code expansion was not supplied by this source layer or the cited 2016 standard. Unresolved.,16
+landowner_category,OthLoc,Literal source code OthLoc; exact code expansion was not supplied by this source layer or the cited 2016 standard. Unresolved.,27
+landowner_category,Private,Individual or private corporation.,24899
+landowner_category,State,State or equivalent government.,3436
+landowner_category,Tribal,Tribal government; the cited NWCG standard specifies non-trust lands.,933
+landowner_category,USFS,U.S. Forest Service.,24840
+landowner_category,USFWS,U.S. Fish and Wildlife Service.,369
+fuel_group,,"Missing source value, stored as an empty CSV cell; no category meaning was supplied.",54956
+fuel_group,Brush,Predominant fuel group recorded as Brush. This is the source group label; detailed fuel-model membership is not supplied.,2268
+fuel_group,Grass,Predominant fuel group recorded as Grass. This is the source group label; detailed fuel-model membership is not supplied.,4705
+fuel_group,Grass-Shrub,Predominant fuel group recorded as Grass-Shrub. This is the source group label; detailed fuel-model membership is not supplied.,4815
+fuel_group,Slash,Predominant fuel group recorded as Slash. This is the source group label; detailed fuel-model membership is not supplied.,613
+fuel_group,Timber,Predominant fuel group recorded as Timber. This is the source group label; detailed fuel-model membership is not supplied.,7915
+fire_cause,Human,Broad human cause category; does not specify a particular ignition mechanism or intent.,37837
+fire_cause,Natural,Broad natural cause category; does not identify a specific natural mechanism.,25643
+fire_cause,Undetermined,Source category Undetermined. Its distinction from Unknown is not documented in the supplied field definition.,10002
+fire_cause,Unknown,Source category Unknown. The supplied field definition does not explain its distinction from Undetermined.,1790
+size_class,A,0 <= IncidentSize <= 0.25 acres.,46889
+size_class,B,0.25 < IncidentSize < 10 acres.,19949
+size_class,C,10 <= IncidentSize < 100 acres.,4907
+size_class,D+,IncidentSize >= 100 acres; project combines larger size classes.,3527

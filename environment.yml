@@ -1,0 +1,6 @@
+name: wildfire-data
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.6
+  - pandas=3.0.6
